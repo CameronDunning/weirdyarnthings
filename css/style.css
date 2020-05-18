@@ -345,6 +345,11 @@ button:focus {
     box-shadow: 20px 20px 0px #d65106;
 }
 
+.sara {
+    height: 400px;
+    text-align: center;
+}
+
 .inner-column {
     text-align: left;
 }
@@ -836,7 +841,7 @@ button:focus {
 
 .page-breadcrumb {
     padding: 250px 0 150px;
-    background: url(../images/all-bg.jpg) no-repeat;
+    background: url(../images/all-bg-1.jpg) no-repeat;
     background-attachment: fixed;
     background-size: cover;
     background-position: 0 0;
@@ -857,7 +862,7 @@ button:focus {
     top: 0;
     width: 100%;
     z-index: 1;
-    opacity: 0.8;
+    opacity: 0.3;
 }
 
 .all-page-title h1 {
@@ -900,12 +905,12 @@ button:focus {
 .our-team .pic:after {
     content: "";
     width: 200%;
-    height: 80%;
+    height: 72.15%;
     background: rgba(38, 37, 37, 0.8);
     position: absolute;
-    top: -100%;
+    top: -111%;
     left: -4%;
-    transform: rotate(45deg);
+    transform: rotate(53.13deg);
     transition: all 0.5s ease 0s;
 }
 
@@ -913,7 +918,7 @@ button:focus {
     background: rgba(214, 81, 6, 0.8);
     top: auto;
     left: auto;
-    bottom: -100%;
+    bottom: -111%;
     right: -4%;
 }
 
