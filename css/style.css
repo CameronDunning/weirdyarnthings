@@ -354,6 +354,14 @@ button:focus {
     text-align: left;
 }
 
+.centered-title {
+    text-align: center;
+}
+
+.instagram-link {
+    color: #d65106;
+}
+
 .inner-column h1 {
     font-family: 'Rubik', sans-serif;
     font-size: 30px;
